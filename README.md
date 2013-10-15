@@ -8,5 +8,8 @@ The step comes follows if you want to hack it:
 * choose one node as your chat room server, type command **messenger:start_svr().**
 * type the command **messenger:logon(node_a).** on the other nodes to login
 * if you want to send message to node_b, type **messenger:message(node_b, "Hi node b, how are you").**
+* if you want to log off, just type **messenger:logoff().**
+
+Happy hack.
 
 
