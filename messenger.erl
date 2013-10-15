@@ -1,4 +1,4 @@
-% Please do not put debug codes unceremonious, cause this is erlang, and if you do things like that, you will get    bitten
+% Please do not put debug codes unceremonious, cause this is erlang, and if you do things like that, you will get  bitten
 -module(messenger).                                                             
 -export([start_svr/0, svr/0, logon/1, logoff/0, message/2, client/2]).          
                                                                                 
