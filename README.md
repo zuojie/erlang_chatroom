@@ -9,6 +9,8 @@ The step comes follows if you want to hack it:
 * type the command **messenger:logon(node_a).** on the other nodes to login
 * if you want to send message to node_b, type **messenger:message(node_b, "Hi node b, how are you").**
 * if you want to log off, just type **messenger:logoff().**
+* Remeber that you have to put the same .erlang.cookie file in all of the nodes above, 
+it  have to be put into your home directory.
 
 Happy hack.
 
